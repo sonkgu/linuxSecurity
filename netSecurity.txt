@@ -1,5 +1,5 @@
                                 network security report
-2022.12.01
+2023.12.01
 
 Network security consists of the policies, processes and practices adopted to prevent, 
 detect and monitor unauthorized access, misuse, modification, or denial of a 
