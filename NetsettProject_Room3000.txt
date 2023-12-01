@@ -7,5 +7,20 @@ PC, Network Device, Software etc.
 Hardware Part
 - H/W Admin : Mr.Hw
 
+Date : 23.12.01
+Hw device
+Network Model : Cicso, Hp, Jupiter
+
+Router
+1. Router Price
+2. Router L3 Switch, Router
+
+Switch
+1. Switch Device Count
+2. Switch Price
+
+Firewall
+1. Firewall L4, L7
+
 Software Part
 - S/W Admin : Mr.Sw
