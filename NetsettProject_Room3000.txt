@@ -1,0 +1,11 @@
+Dong Seoul Room 3000 network setting Project
+
+date : 2023.12.01
+
+PC, Network Device, Software etc.
+
+Hardware Part
+- H/W Admin : Mr.Hw
+
+Software Part
+- S/W Admin : Mr.Sw
