@@ -24,3 +24,13 @@ Firewall
 
 Software Part
 - S/W Admin : Mr.Sw
+
+Date : 23.12.01
+SW Server model : Ubuntu, Rocky, RHEL
+
+SW Server Lang
+1. Python, Go, Java
+
+SW Server DB Model
+1. Select : MongoDB, MariaDB
+2. DB Price
